@@ -1,0 +1,3 @@
+/Users/meremikhina/Desktop/QUANTUM/cmake-build-debug/CMakeFiles/QUANTUM.dir
+/Users/meremikhina/Desktop/QUANTUM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/meremikhina/Desktop/QUANTUM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
